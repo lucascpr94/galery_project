@@ -30,6 +30,5 @@ A intenção aqui foi de consolidar meus conhecimentos e mostrar as tecnologias 
 <<<<<<< HEAD
 
 <p>Demonstração</p>:
-<img src="galery_project\src\assets\Galeria de Fotos .gif" width="600" />
-=======
->>>>>>> ecb8fea42fa2d29df455e707101a8b9f9e40dedd
+<a href="https://github.com/lucascpr94/galery_project/blob/main/src/assets/Galeria%20de%20Fotos%20.gif">Clique aqui</a>
+
