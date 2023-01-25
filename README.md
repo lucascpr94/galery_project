@@ -29,4 +29,4 @@ A intenção aqui foi de consolidar meus conhecimentos e mostrar as tecnologias 
 - E assim abrirá uma porta <i>localhost 9000</i>. Basta abrir o link ou clicar <a href="http://localhost:9000/">Aqui</a>. <br>
 
 <p>Demonstração</p>:
-<img src="galery_project\src\assets\Galeria de Fotos .gif" alt="this slowpoke moves"  width="250" />
+<img src="galery_project\src\assets\Galeria de Fotos .gif" width="600" />
