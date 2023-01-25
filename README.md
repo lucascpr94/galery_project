@@ -27,6 +27,9 @@ A intenção aqui foi de consolidar meus conhecimentos e mostrar as tecnologias 
 - Execute o seguinte comando: <code>npm install</code> // isso vai instalar as dependencias do projeto <br>
 - Feito isso, execute o comando: <code>npm start</code> // abrirá o modo de desenvolvimento <br>
 - E assim abrirá uma porta <i>localhost 9000</i>. Basta abrir o link ou clicar <a href="http://localhost:9000/">Aqui</a>. <br>
+<<<<<<< HEAD
 
 <p>Demonstração</p>:
 <img src="galery_project\src\assets\Galeria de Fotos .gif" width="600" />
+=======
+>>>>>>> ecb8fea42fa2d29df455e707101a8b9f9e40dedd
